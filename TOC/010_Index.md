@@ -14,12 +14,13 @@
 
 
 * **I have learned all these topics from various free materials available online. I thought these notes might be helpful for someone or might be motivation for someone to start learning this beautiful subject. After all, the world we are living is largely affected by the random things(events). So this material could be one of those random events.**
-* The initial topics will be short and straight to the point because they seemed a bit simple for me. The later topics will be a little bit more detailed than the initial topics because I had a lot of questions when I was learning them.
 
 
 #### Cautions
 
 * I am not sure how accurate this content will be since this is my personal notes. But I have tried my best to be accurate on what I am trying to explain. So I suggest only using these notes as a supplement to some other main reference book from where you can learn about the subject.
+
+* The initial topics will be short and straight to the point because they seemed a bit simple for me. The later topics will be a little bit more detailed than the initial topics because I had a lot of questions when I was learning them.
 
 
 #### How can you use this content?
@@ -39,3 +40,4 @@ If anyone has a problem with this content please contact me through github issue
 * [Time Complexity](601_TimeComplexity.md)
 * [Space Complexity](630_SpaceComplexity.md)
 * [Intractability](660_Intractability.md)
+* [Advanced Topics](670_AdvancedComplexity.md)
