@@ -1,8 +1,8 @@
 # notes
-This repository contains my notes on each topic I am learning. I hope this will be useful for someone.
+This repository contains my notes on each topic I am learning. I hope this may help someone.
 
 ## Index 
-### Theory of Computation
+### Theory of Computation(Personal notes)
 * [Index](/TOC/010_Index.md)
 * [DFA, NFA, Regular Lnaguages](/TOC/101_DFA_NFA_RL.md)
 * [PDA CFG, Context Free Lnaguages](/TOC/120_PDA_CFG_CFL.md)

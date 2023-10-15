@@ -262,9 +262,6 @@ TM M is a minimal machine if there is no machine M1 that recognises the same lan
 Suppose Enumerator E prints out all the minimal machines, then we can construct TM R to prove that one of the printed machines is not actually the smallest one.
 
 TM R=“on input w
-
-
-
 1. Get its own description &lt;R>
 2. Run enumerator E until it finds some TM B such that description of &lt;B> is larger than &lt;R>
 3. Simulate B on input w”
